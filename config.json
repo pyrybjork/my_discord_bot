@@ -15,7 +15,7 @@
             "react":true,
             "upvote":"troll",
             "downvote":"muchtrolling",
-            "bannedWords": ["nigger", "nigga", "neekeri"]
+            "bannedWords": []
         }
     }
 }
