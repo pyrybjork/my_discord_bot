@@ -1,0 +1,21 @@
+{
+    "colors": {
+        "info":"#19ddff",
+        "warn":"#f27100",
+        "error":"#f23800"
+    },
+
+    "guilds":{
+        "832579678107336705": {
+            "react":true,
+            "upvote":"notsus",
+            "downvote":"thisisnotaviruspng"
+        },
+        "875720493804699648": {
+            "react":true,
+            "upvote":"troll",
+            "downvote":"muchtrolling",
+            "bannedWords": ["nigger", "nigga", "neekeri"]
+        }
+    }
+}
